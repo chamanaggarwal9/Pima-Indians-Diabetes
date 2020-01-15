@@ -1,6 +1,6 @@
 # Pima-Indians-Diabetes
 It predicts whether the person has diabetes or not.
-Dataset
+
 The dataset includes data from 768 women with 8 characteristics, in particular:
 1. Number of times pregnant
 2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
